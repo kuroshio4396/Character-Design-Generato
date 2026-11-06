@@ -1,0 +1,6 @@
+{
+  "name": "Character Design Generator",
+  "description": "AI-powered character design sheet generator based on uploaded images and settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
